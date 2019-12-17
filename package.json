@@ -1,0 +1,19 @@
+{
+  "name": "archetypes",
+  "version": "1.0.0",
+  "description": "A website for ENGL2110's course project. The website is centered around the concept of archetypes.",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass  -w scss/ -o css/ --recursive"
+  },
+  "keywords": [
+    "Archetype",
+    "Website"
+  ],
+  "author": "Ethan Butler",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.13.0",
+    "particlesjs": "^2.2.3"
+  }
+}
