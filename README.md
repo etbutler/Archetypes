@@ -1,2 +1,5 @@
 # Archetype
-# Archetypes
+Made using 
+HTML/CSS
+Sass
+Node-Sass
