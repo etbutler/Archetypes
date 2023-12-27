@@ -13,7 +13,7 @@
   "author": "Ethan Butler",
   "license": "ISC",
   "dependencies": {
-    "node-sass": "^7.0.3",
+    "node-sass": "^9.0.0",
     "particlesjs": "^2.2.3"
   }
 }
